@@ -1,6 +1,7 @@
 <h1> Data-Transformation</h1>  
 
 <h3> Types Of Transformation </h3>
+
 Normalization And Standardization.
 Scaling to Minimum And Maximum values.
 Scaling To Median And Quantiles.
