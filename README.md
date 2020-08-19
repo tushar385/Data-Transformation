@@ -3,8 +3,11 @@
 <h3> Types Of Transformation </h3>
 
 Normalization And Standardization.
+
 Scaling to Minimum And Maximum values.
+
 Scaling To Median And Quantiles.
+
 Guassian Transformation.
 1-Logarithmic Transformation
 2-Reciprocal Trnasformation
